@@ -1,7 +1,3 @@
-# Amazon-Prime- Tableau Dashboard
-Here's an updated README template based on the fact that you used only Tableau for your project:
-
----
 
 # Amazon Prime Tableau Project
 
